@@ -32,6 +32,7 @@ In order to get the data imported for cleaning in Mysql Workbench, I created a d
 - Common Table Expression
 - DELETE STATEMENT
 - SUBSTRING function
+- CAST function
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 **NOTE:** This script can be used by anyone using any other sql variation (additional google search might be needed.)
