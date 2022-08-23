@@ -4,6 +4,8 @@
 # Overview
 This project focuses on cleaning data with SQL and presenting it in an appropriate form to be used for analysis later on. It is a follow-up project to the project made by [Alex Freberg](https://www.youtube.com/c/AlexTheAnalyst) on his [Data Cleaning with SQL](https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&t=1515s).
 
+**Note that this project was written in Mysql and additional scripts were written to Alex's tutorial**
+
 As the first step, the data was downloaded from this [url](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWdPampoN2VBR0FwcjlNdW9oLTJCRUctbVY3d3xBQ3Jtc0tuLU9oYTNBTjNGODhfSm5DUTJaSll5TXQ1N3BZaV9zaUh1cDY0ZTR5R0Y5d0QtNUpqcE80NmczQS1vN1M3SkNGU21yNlRXcnREdXY1Sncwdl9Bcmw2eU1lYXZYdnpCeWVNVkZyWXVRcWVscnVhMWFVTQ&q=https%3A%2F%2Fgithub.com%2FAlexTheAnalyst%2FPortfolioProjects%2Fblob%2Fmain%2FNashville%2520Housing%2520Data%2520for%2520Data%2520Cleaning.xlsx&v=8rO7ztF4NtU). It appears to be filled with some inconsistencies which renders the data to be inappropriate for better analysis.
 In order to get the data imported for cleaning in Mysql Workbench, I created a database named "datacleaning_db". Following that, a table was created in the database named "Nashvillehousingdata". Then the data was imported into this table using the import wizard.
 
