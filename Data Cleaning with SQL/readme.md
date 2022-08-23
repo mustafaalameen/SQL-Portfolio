@@ -1,3 +1,4 @@
+# Data Cleaning with SQL
 ![cleaning](https://user-images.githubusercontent.com/70868527/181845062-eef32ecf-9270-44d7-86c6-abc4cff9c4d5.png)
 ------------------------------
 # Overview
@@ -17,8 +18,8 @@ In order to get the data imported for cleaning in Mysql Workbench, I created a d
   
 ## Structure
 - The repository contains the:
- - Data: It can be used for any data cleaning process if you wish to experiment your data cleaning skills.
- - MySql Script: It was wiritten in Mysql (another sql variation) you can follow. The interesting I encountered which renders my workprocess different from Alex's is      how we handled the date column differently. The date seemed complex but the script I wrote simplified it.
+    - Data: It can be used for any data cleaning process if you wish to experiment your data cleaning skills.
+    - MySql Script: It was wiritten in Mysql (another sql variation) you can follow. The interesting I encountered which renders my workprocess different from Alex's    is how we handled the date column differently. The date seemed complex but the script I wrote simplified it.
  
 ## Concepts Required to follow the project
 
